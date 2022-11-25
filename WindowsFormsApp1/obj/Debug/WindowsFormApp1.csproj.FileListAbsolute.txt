@@ -1,0 +1,48 @@
+E:\Documents\Visual Studio 2022\Project\QLNhanVien\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormApp1.csproj.AssemblyReference.cache
+E:\Documents\Visual Studio 2022\Project\QLNhanVien\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormApp1.csproj.SuggestedBindingRedirects.cache
+E:\Documents\Visual Studio 2022\Project\QLNhanVien\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.frm_DangNhap.resources
+E:\Documents\Visual Studio 2022\Project\QLNhanVien\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.frm_NhanVien.resources
+E:\Documents\Visual Studio 2022\Project\QLNhanVien\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.frm_QuanLyNhanVien.resources
+E:\Documents\Visual Studio 2022\Project\QLNhanVien\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.frm_TimKiem.resources
+E:\Documents\Visual Studio 2022\Project\QLNhanVien\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\Documents\Visual Studio 2022\Project\QLNhanVien\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormApp1.csproj.GenerateResource.cache
+E:\Documents\Visual Studio 2022\Project\QLNhanVien\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormApp1.csproj.CoreCompileInputs.cache
+E:\Documents\Visual Studio 2022\Project\QLNhanVien\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Database1.mdf
+E:\Documents\Visual Studio 2022\Project\QLNhanVien\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Database1_log.ldf
+E:\Documents\Visual Studio 2022\Project\QLNhanVien\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\Documents\Visual Studio 2022\Project\QLNhanVien\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\Documents\Visual Studio 2022\Project\QLNhanVien\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\Documents\Visual Studio 2022\Project\QLNhanVien\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\Documents\Visual Studio 2022\Project\QLNhanVien\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Documents\HE 2021-2022\DoAnNhom_CS464H\QLNhanVien\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Database1.mdf
+D:\Documents\HE 2021-2022\DoAnNhom_CS464H\QLNhanVien\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Database1_log.ldf
+D:\Documents\HE 2021-2022\DoAnNhom_CS464H\QLNhanVien\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Documents\HE 2021-2022\DoAnNhom_CS464H\QLNhanVien\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Documents\HE 2021-2022\DoAnNhom_CS464H\QLNhanVien\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Documents\HE 2021-2022\DoAnNhom_CS464H\QLNhanVien\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormApp1.csproj.AssemblyReference.cache
+D:\Documents\HE 2021-2022\DoAnNhom_CS464H\QLNhanVien\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormApp1.csproj.SuggestedBindingRedirects.cache
+D:\Documents\HE 2021-2022\DoAnNhom_CS464H\QLNhanVien\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.frm_DangNhap.resources
+D:\Documents\HE 2021-2022\DoAnNhom_CS464H\QLNhanVien\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.frm_NhanVien.resources
+D:\Documents\HE 2021-2022\DoAnNhom_CS464H\QLNhanVien\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.frm_QuanLyNhanVien.resources
+D:\Documents\HE 2021-2022\DoAnNhom_CS464H\QLNhanVien\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.frm_TimKiem.resources
+D:\Documents\HE 2021-2022\DoAnNhom_CS464H\QLNhanVien\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Documents\HE 2021-2022\DoAnNhom_CS464H\QLNhanVien\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormApp1.csproj.GenerateResource.cache
+D:\Documents\HE 2021-2022\DoAnNhom_CS464H\QLNhanVien\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormApp1.csproj.CoreCompileInputs.cache
+D:\Documents\HE 2021-2022\DoAnNhom_CS464H\QLNhanVien\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Documents\HE 2021-2022\DoAnNhom_CS464H\QLNhanVien\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Documents\HE 2021-2022\DoAnNhom_CS464H\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Database1.mdf
+D:\Documents\HE 2021-2022\DoAnNhom_CS464H\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Database1_log.ldf
+D:\Documents\HE 2021-2022\DoAnNhom_CS464H\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Documents\HE 2021-2022\DoAnNhom_CS464H\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Documents\HE 2021-2022\DoAnNhom_CS464H\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Documents\HE 2021-2022\DoAnNhom_CS464H\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormApp1.csproj.AssemblyReference.cache
+D:\Documents\HE 2021-2022\DoAnNhom_CS464H\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormApp1.csproj.SuggestedBindingRedirects.cache
+D:\Documents\HE 2021-2022\DoAnNhom_CS464H\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.frm_DangNhap.resources
+D:\Documents\HE 2021-2022\DoAnNhom_CS464H\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.frm_NhanVien.resources
+D:\Documents\HE 2021-2022\DoAnNhom_CS464H\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.frm_QuanLyNhanVien.resources
+D:\Documents\HE 2021-2022\DoAnNhom_CS464H\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.frm_TimKiem.resources
+D:\Documents\HE 2021-2022\DoAnNhom_CS464H\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Documents\HE 2021-2022\DoAnNhom_CS464H\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormApp1.csproj.GenerateResource.cache
+D:\Documents\HE 2021-2022\DoAnNhom_CS464H\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormApp1.csproj.CoreCompileInputs.cache
+D:\Documents\HE 2021-2022\DoAnNhom_CS464H\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Documents\HE 2021-2022\DoAnNhom_CS464H\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
